@@ -4,7 +4,6 @@ repo de pruebas para karate con maven
  ## Comando para ejecutar proyecto
     mvn clean test
 
-     > [!NOTE]
  > Para mayor informacion
 
  ## Tutorial de ejemnplo
